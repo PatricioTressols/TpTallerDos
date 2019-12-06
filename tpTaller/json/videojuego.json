@@ -1,0 +1,8 @@
+{
+    "VideoJuegos":[
+        {"nombre" : "The Elder Scrolls IV", "descripcion": "Sexta entrega de la saga The Elder Scrolls de la empresa Bethesda", "img" : "../img/theelderscrolls6.jpg", "trailer": "https://www.youtube.com/watch?v=OkFdqqyI8y4"},
+        {"nombre" : "Star Wars: Jedi Fallen Order", "descripcion": "EA Games lanza un nuevo juego de Star Wars...", "img" : "../img/jedifallenorder.jpeg", "trailer": "https://www.youtube.com/watch?v=tvyJOE8sIf8"},
+        {"nombre" : "Fortnite Chapter 2", "descripcion": "El mundo tal y como lo conociamos desapareció...", "img" : "../img/fortnite2.jpg", "trailer":"https://www.youtube.com/watch?v=3KgmY5NrEzU"},
+        {"nombre" : "Red Dead Redemption 2", "descripcion": "La historia de la antigua banda de John Marston...", "img" : "../img/reddeadredemtion2.jpg", "trailer":"https://www.youtube.com/watch?v=SXvQ1nK4oxk"}  
+    ]
+}
